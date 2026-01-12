@@ -1,0 +1,2 @@
+- The file vehicle_pm25.csv contains the counting of vehicles and measurement of PM2.5 for each timestamp, which is used to train the predictor.
+- This [!https://drive.google.com/drive/folders/184ENcej7LY6NnRllM1FfbVGs6Av0p7Zl?usp=sharing](google drive) contains the raw data to train vehicle detector. 
